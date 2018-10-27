@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For SmartDisplay
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SmartDisplay	KEYWORD1	SmartDisplay
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Flash 		KEYWORD2
+FlashLogo	KEYWORD2
+Alt			KEYWORD2
+AltLogo		KEYWORD2
+ClearRow	KEYWORD2
+DispWait	KEYWORD2
+DispIntro	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
